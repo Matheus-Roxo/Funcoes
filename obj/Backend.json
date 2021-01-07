@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\atividadess\\Funcoes\\Funcoes.csproj": {}
+    "C:\\Users\\Matheus\\Desktop\\DEV\\back-end\\Array\\Array.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\atividadess\\Funcoes\\Funcoes.csproj": {
+    "C:\\Users\\Matheus\\Desktop\\DEV\\back-end\\Array\\Array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\atividadess\\Funcoes\\Funcoes.csproj",
-        "projectName": "Funcoes",
-        "projectPath": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\atividadess\\Funcoes\\Funcoes.csproj",
-        "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\atividadess\\Funcoes\\obj\\",
+        "projectUniqueName": "C:\\Matheus\\Desktop\\DEV\\back-end.csproj",
+        "projectName": "Array",
+        "projectPath": "C:\\Users\\Matheus\\Desktop\\DEV\\back-end.csproj",
+        "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Matheus\\Desktop\\DEV\\back-end\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
